@@ -1,1 +1,1 @@
-# GitTutorial
+# GitTutorial learning Git commands.
