@@ -1,4 +1,3 @@
-#Hello World
 import java.util.*;
 
 public class Hello_World {
